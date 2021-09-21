@@ -1,7 +1,6 @@
 // JENNY'S SECRET MESSAGE
 function greet(name){
-    if(name === 'Johnny')
-      return "Hey babe!";
-  return "Hey " + name + "!";
-  
-  }
+    if(name === "Johnny")
+      return "Hello, my love!"
+      return "Hello, " + name + "!"
+}
