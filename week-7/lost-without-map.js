@@ -1,4 +1,4 @@
 // LOST WITHOUT A MAP
 function maps(x){
-    return x.map(num => num * 2)
-  }
+  return x.map (x => x * 2)
+}
