@@ -13,3 +13,5 @@ function fakeBin(x){
     }
     return binary.join('')
   }
+
+// https://www.codewars.com/kata/57eae65a4321032ce000002d
